@@ -1,0 +1,31 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s1_1": "nodemon  1_creational/1_constructor.js",
+    "s1_2": "nodemon  1_creational/2_factory.js",
+    "s1_3": "nodemon  1_creational/3_prototype.js ",
+    "s1_4": "nodemon  1_creational/4_singelTon",
+    "s2_5": "nodemon  2_structural/5_adapter.js",
+    "s2_6": "nodemon  2_structural/6_decorator.js",
+    "s2_7": "nodemon  2_structural/7_facade.js",
+    "s2_8": "nodemon  2_structural/8_flyweight.js",
+    "s2_9": "nodemon  2_structural/9_proxy.js",
+    "s3_10": "nodemon 3_behaviour/10_chain_of_responsybility.js ",
+    "s3_11": "nodemon 3_behaviour/11_comand.js ",
+    "s3_12": "nodemon 3_behaviour/12_iterator.js ",
+    "s3_13": "nodemon 3_behaviour/13_imidiator.js ",
+    "s3_14": "nodemon 3_behaviour/14_observer.js ",
+    "s3_15": "nodemon 3_behaviour/1 ",
+    "s3_16": "nodemon 3_behaviour/1 ",
+    "s3_17": "nodemon 3_behaviour/1 "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
